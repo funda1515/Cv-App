@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bbfbeba-c49e-4798-9a8a-cfd67e2eaea7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1c8kUQ0rUlK9bbl8lCO3ZuOZg0B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\cv\isveren" />
+      <recent name="C:\wamp64\www\cv" />
+      <recent name="C:\wamp64\www\cv\database" />
+      <recent name="C:\Users\Invamed Admin\Desktop\cv" />
+      <recent name="C:\xampp\htdocs\cv\assets\images\backgrounds" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\cv\isarayan" />
+      <recent name="C:\wamp64\www\cv" />
+      <recent name="C:\wamp64\www\cv\admin" />
+      <recent name="C:\wamp64\www\cv\isveren" />
+      <recent name="C:\wamp64\www\cv\includes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.db_connect.php">
+    <configuration name="db_connect.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cv/database/db_connect.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="errors.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cv/errors.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="dashboard.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/dashboard.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.db_connect.php" />
+        <item itemvalue="PHP Script.dashboard.php" />
+        <item itemvalue="JavaScript Debug.errors.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bbfbeba-c49e-4798-9a8a-cfd67e2eaea7" name="Default Changelist" comment="" />
+      <created>1589917622542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589917622542</updated>
+      <workItem from="1589917625549" duration="5190000" />
+      <workItem from="1590155423362" duration="10000" />
+      <workItem from="1590477547271" duration="3036000" />
+      <workItem from="1590565656619" duration="1253000" />
+      <workItem from="1590645396649" duration="603000" />
+      <workItem from="1590653563386" duration="10261000" />
+      <workItem from="1590698032615" duration="2117000" />
+      <workItem from="1590704604988" duration="2761000" />
+      <workItem from="1590710036125" duration="77000" />
+      <workItem from="1590710251258" duration="3073000" />
+      <workItem from="1590740998117" duration="6277000" />
+      <workItem from="1590752695898" duration="115000" />
+      <workItem from="1590752856192" duration="4889000" />
+      <workItem from="1590774886680" duration="44192000" />
+      <workItem from="1592252183275" duration="2410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592252359061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="297" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592252359061" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590742673185" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590658095449" />
+    <state x="726" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589917825305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="726" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589917825305" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590856719084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590746862921" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590856719084" />
+    <state x="484" y="95" key="#dashboard.php" timestamp="1592252841730">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="484" y="95" key="#dashboard.php/0.0.1536.824@0.0.1536.824" timestamp="1592252841730" />
+    <state x="592" y="217" key="FileChooserDialogImpl" timestamp="1592252723354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592252723354" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590745736824" />
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590828442683" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1590653686980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590653686980" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1590653686980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.center/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590653686980" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1590653686980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.left/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590653686980" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1590653686980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590653686980" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1592255080738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592255080738" />
+    <state x="834" y="407" width="316" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1590655562631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="834" y="407" width="316" height="245" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590655562631" />
+    <state x="663" y="321" width="532" height="439" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1590930647456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="335" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590742684596" />
+    <state x="663" y="321" width="532" height="439" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590930647456" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1590708280511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590708280511" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1590711626134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590711626134" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1590741010878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="271" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590155423635" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590741010878" />
+    <state x="656" y="342" key="com.intellij.ide.util.TipDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589917636939" />
+    <state x="1920" y="0" width="1550" height="880" key="dock-window-1" timestamp="1590859069751">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="1920" y="0" width="1550" height="880" key="dock-window-1/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590859069751" />
+    <state x="1920" y="0" width="1550" height="880" key="dock-window-2" timestamp="1590859069751">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="1920" y="0" width="1550" height="880" key="dock-window-2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590859069751" />
+    <state x="1920" y="0" width="1550" height="880" key="dock-window-3" timestamp="1590924207841">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="1920" y="0" width="1550" height="880" key="dock-window-3/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590924207841" />
+    <state x="1920" y="0" width="1550" height="880" key="dock-window-4" timestamp="1590932205356">
+      <screen x="1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="1920" y="0" width="1550" height="880" key="dock-window-4/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590932205356" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1590829863233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1590829863233" />
+  </component>
+</project>
